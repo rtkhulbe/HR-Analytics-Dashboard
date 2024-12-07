@@ -18,7 +18,7 @@ Plan HR strategies, such as hiring or leave management.
 Explore relationships between qualifications, salary, and headcount.
 
 # 📌 Built with:
-Power BI Desktop
-Excel
+1. Power BI Desktop
+2. Excel
 
 ![Screenshot 2024-12-07 232809](https://github.com/user-attachments/assets/4e8dcec4-4b80-4101-a926-b3281f43248e)
